@@ -25,4 +25,4 @@ So you can return the converted amount of the target currency by referencing the
 
 convertedAmountReceived = ServerResponse[‘response’][‘convertedAmount’]
  
-![image](https://github.com/user-attachments/assets/bb852928-4ab6-4805-b172-f10af1fa9fdb)
+![image](https://github.com/user-attachments/assets/239674bf-20c8-42a2-b2c4-55197ffe7442)
